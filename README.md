@@ -6,8 +6,7 @@ A responsive web application that allows users to reserve catering services, bro
 
 ## 🔗 Live Demo
 
-🌐 [Live Site on Vercel](https://your-vercel-link.vercel.app/)  
-*(Replace with your deployed URL)*
+🌐 [Live Site on Vercel](https://catering-ordering-system.vercel.app/)
 
 ---
 
